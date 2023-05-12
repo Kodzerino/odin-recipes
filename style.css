@@ -9,6 +9,10 @@ h4 {
     font-weight: bold;
 }
 
+h1 {
+    text-align: center;
+}
+
 a {
     color: lightskyblue;
 }
@@ -16,4 +20,11 @@ a {
 img {
     height: 400px;
     width: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+body {
+    width: 500px;
+    margin: 0 auto;
 }
